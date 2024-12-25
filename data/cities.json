@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "0f35",
+      "cityName": "Tehran",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-10-04T07:34:30.543Z",
+      "notes": "It was an awesome trip",
+      "position": {
+        "lat": 35.685753218075895,
+        "lng": 51.39129638671876
+      }
+    }
+  ]
+}
